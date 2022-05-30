@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/remla2022/stackoverflow-tagger/issues/7) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
-2. 🗣 Commented on [#34](https://github.com/bvobart/mllint/issues/34) in [bvobart/mllint](https://github.com/bvobart/mllint)
-3. 💪 Opened PR [#5](https://github.com/remla2022/stackoverflow-tagger/pull/5) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
-4. ❗️ Opened issue [#34](https://github.com/bvobart/mllint/issues/34) in [bvobart/mllint](https://github.com/bvobart/mllint)
-5. 🎉 Merged PR [#21](https://github.com/Cornul11/healthDecode/pull/21) in [Cornul11/healthDecode](https://github.com/Cornul11/healthDecode)
+1. 🎉 Merged PR [#7](https://github.com/remla2022/stackoverflow-tagger/pull/7) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+2. 🗣 Commented on [#7](https://github.com/remla2022/stackoverflow-tagger/issues/7) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+3. 🗣 Commented on [#34](https://github.com/bvobart/mllint/issues/34) in [bvobart/mllint](https://github.com/bvobart/mllint)
+4. 💪 Opened PR [#5](https://github.com/remla2022/stackoverflow-tagger/pull/5) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+5. ❗️ Opened issue [#34](https://github.com/bvobart/mllint/issues/34) in [bvobart/mllint](https://github.com/bvobart/mllint)
 <!--END_SECTION:activity-->

@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/remla2022/stackoverflow-tagger/pull/7) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
-2. 🗣 Commented on [#7](https://github.com/remla2022/stackoverflow-tagger/issues/7) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
-3. 🗣 Commented on [#34](https://github.com/bvobart/mllint/issues/34) in [bvobart/mllint](https://github.com/bvobart/mllint)
-4. 💪 Opened PR [#5](https://github.com/remla2022/stackoverflow-tagger/pull/5) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
-5. ❗️ Opened issue [#34](https://github.com/bvobart/mllint/issues/34) in [bvobart/mllint](https://github.com/bvobart/mllint)
+1. 💪 Opened PR [#759](https://github.com/go-task/task/pull/759) in [go-task/task](https://github.com/go-task/task)
+2. ❌ Closed PR [#758](https://github.com/go-task/task/pull/758) in [go-task/task](https://github.com/go-task/task)
+3. 💪 Opened PR [#758](https://github.com/go-task/task/pull/758) in [go-task/task](https://github.com/go-task/task)
+4. 🎉 Merged PR [#7](https://github.com/remla2022/stackoverflow-tagger/pull/7) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+5. 🗣 Commented on [#7](https://github.com/remla2022/stackoverflow-tagger/issues/7) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
 <!--END_SECTION:activity-->

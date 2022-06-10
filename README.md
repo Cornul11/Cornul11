@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/wdm2022/shopping-cart/pull/18) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-2. 💪 Opened PR [#18](https://github.com/wdm2022/shopping-cart/pull/18) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-3. 💪 Opened PR [#759](https://github.com/go-task/task/pull/759) in [go-task/task](https://github.com/go-task/task)
-4. ❌ Closed PR [#758](https://github.com/go-task/task/pull/758) in [go-task/task](https://github.com/go-task/task)
-5. 💪 Opened PR [#758](https://github.com/go-task/task/pull/758) in [go-task/task](https://github.com/go-task/task)
+1. 💪 Opened PR [#19](https://github.com/wdm2022/shopping-cart/pull/19) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+2. ❌ Closed PR [#18](https://github.com/wdm2022/shopping-cart/pull/18) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+3. 💪 Opened PR [#18](https://github.com/wdm2022/shopping-cart/pull/18) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+4. 💪 Opened PR [#759](https://github.com/go-task/task/pull/759) in [go-task/task](https://github.com/go-task/task)
+5. ❌ Closed PR [#758](https://github.com/go-task/task/pull/758) in [go-task/task](https://github.com/go-task/task)
 <!--END_SECTION:activity-->

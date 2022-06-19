@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/remla2022/stackoverflow-tagger/issues/29) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
-2. 🎉 Merged PR [#27](https://github.com/wdm2022/shopping-cart/pull/27) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-3. 💪 Opened PR [#27](https://github.com/wdm2022/shopping-cart/pull/27) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-4. 🎉 Merged PR [#26](https://github.com/wdm2022/shopping-cart/pull/26) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-5. 💪 Opened PR [#26](https://github.com/wdm2022/shopping-cart/pull/26) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+1. ❗️ Closed issue [#27](https://github.com/remla2022/stackoverflow-tagger/issues/27) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+2. ❗️ Closed issue [#26](https://github.com/remla2022/stackoverflow-tagger/issues/26) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+3. ❗️ Closed issue [#25](https://github.com/remla2022/stackoverflow-tagger/issues/25) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+4. ❗️ Closed issue [#24](https://github.com/remla2022/stackoverflow-tagger/issues/24) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+5. 🗣 Commented on [#29](https://github.com/remla2022/stackoverflow-tagger/issues/29) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
 <!--END_SECTION:activity-->

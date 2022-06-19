@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/wdm2022/shopping-cart/pull/27) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-2. 💪 Opened PR [#27](https://github.com/wdm2022/shopping-cart/pull/27) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-3. 🎉 Merged PR [#26](https://github.com/wdm2022/shopping-cart/pull/26) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-4. 💪 Opened PR [#26](https://github.com/wdm2022/shopping-cart/pull/26) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-5. 💪 Opened PR [#28](https://github.com/remla2022/stackoverflow-tagger/pull/28) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+1. 🗣 Commented on [#29](https://github.com/remla2022/stackoverflow-tagger/issues/29) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+2. 🎉 Merged PR [#27](https://github.com/wdm2022/shopping-cart/pull/27) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+3. 💪 Opened PR [#27](https://github.com/wdm2022/shopping-cart/pull/27) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+4. 🎉 Merged PR [#26](https://github.com/wdm2022/shopping-cart/pull/26) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+5. 💪 Opened PR [#26](https://github.com/wdm2022/shopping-cart/pull/26) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
 <!--END_SECTION:activity-->

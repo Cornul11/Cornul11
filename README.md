@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/wdm2022/shopping-cart/issues/4) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-2. ❗️ Closed issue [#5](https://github.com/wdm2022/shopping-cart/issues/5) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-3. ❗️ Closed issue [#3](https://github.com/wdm2022/shopping-cart/issues/3) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-4. 🗣 Commented on [#215](https://github.com/Fmstrat/winapps/issues/215) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
-5. ❗️ Closed issue [#24](https://github.com/remla2022/stackoverflow-tagger/issues/24) in [remla2022/stackoverflow-tagger](https://github.com/remla2022/stackoverflow-tagger)
+1. 🎉 Merged PR [#3](https://github.com/IgorAnohin/Triposal/pull/3) in [IgorAnohin/Triposal](https://github.com/IgorAnohin/Triposal)
+2. ❗️ Closed issue [#4](https://github.com/wdm2022/shopping-cart/issues/4) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+3. ❗️ Closed issue [#5](https://github.com/wdm2022/shopping-cart/issues/5) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+4. ❗️ Closed issue [#3](https://github.com/wdm2022/shopping-cart/issues/3) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
+5. 🗣 Commented on [#215](https://github.com/Fmstrat/winapps/issues/215) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
 <!--END_SECTION:activity-->

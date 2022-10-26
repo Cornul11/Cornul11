@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/IgorAnohin/Triposal/pull/3) in [IgorAnohin/Triposal](https://github.com/IgorAnohin/Triposal)
-2. ❗️ Closed issue [#4](https://github.com/wdm2022/shopping-cart/issues/4) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-3. ❗️ Closed issue [#5](https://github.com/wdm2022/shopping-cart/issues/5) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-4. ❗️ Closed issue [#3](https://github.com/wdm2022/shopping-cart/issues/3) in [wdm2022/shopping-cart](https://github.com/wdm2022/shopping-cart)
-5. 🗣 Commented on [#215](https://github.com/Fmstrat/winapps/issues/215) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
+1. 💪 Opened PR [#6](https://github.com/kponichtera/cs4215-qpe/pull/6) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
+2. 💪 Opened PR [#4](https://github.com/kponichtera/cs4215-qpe/pull/4) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
+3. 🎉 Merged PR [#3](https://github.com/kponichtera/cs4215-qpe/pull/3) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
+4. 💪 Opened PR [#3](https://github.com/kponichtera/cs4215-qpe/pull/3) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
+5. 🎉 Merged PR [#2](https://github.com/kponichtera/cs4215-qpe/pull/2) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
 <!--END_SECTION:activity-->

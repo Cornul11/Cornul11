@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/kponichtera/cs4215-qpe/pull/6) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
-2. 💪 Opened PR [#6](https://github.com/kponichtera/cs4215-qpe/pull/6) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
-3. 💪 Opened PR [#4](https://github.com/kponichtera/cs4215-qpe/pull/4) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
-4. 🎉 Merged PR [#3](https://github.com/kponichtera/cs4215-qpe/pull/3) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
-5. 💪 Opened PR [#3](https://github.com/kponichtera/cs4215-qpe/pull/3) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
+1. 🎉 Merged PR [#4](https://github.com/ML4SE2022/group7/pull/4) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
+2. 💪 Opened PR [#4](https://github.com/ML4SE2022/group7/pull/4) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
+3. ❌ Closed PR [#6](https://github.com/kponichtera/cs4215-qpe/pull/6) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
+4. 💪 Opened PR [#6](https://github.com/kponichtera/cs4215-qpe/pull/6) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
+5. 💪 Opened PR [#4](https://github.com/kponichtera/cs4215-qpe/pull/4) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
 <!--END_SECTION:activity-->

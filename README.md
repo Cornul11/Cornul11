@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ML4SE2022/group7/pull/5) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
-2. 💪 Opened PR [#5](https://github.com/ML4SE2022/group7/pull/5) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
-3. 🎉 Merged PR [#4](https://github.com/ML4SE2022/group7/pull/4) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
-4. 💪 Opened PR [#4](https://github.com/ML4SE2022/group7/pull/4) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
-5. ❌ Closed PR [#6](https://github.com/kponichtera/cs4215-qpe/pull/6) in [kponichtera/cs4215-qpe](https://github.com/kponichtera/cs4215-qpe)
+1. ❗️ Opened issue [#126](https://github.com/tokio-rs/slab/issues/126) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
+2. 🎉 Merged PR [#5](https://github.com/ML4SE2022/group7/pull/5) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
+3. 💪 Opened PR [#5](https://github.com/ML4SE2022/group7/pull/5) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
+4. 🎉 Merged PR [#4](https://github.com/ML4SE2022/group7/pull/4) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
+5. 💪 Opened PR [#4](https://github.com/ML4SE2022/group7/pull/4) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
 <!--END_SECTION:activity-->

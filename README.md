@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#224](https://github.com/topgrade-rs/topgrade/issues/224) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
-2. ❗️ Opened issue [#126](https://github.com/tokio-rs/slab/issues/126) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
-3. 🎉 Merged PR [#5](https://github.com/ML4SE2022/group7/pull/5) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
-4. 💪 Opened PR [#5](https://github.com/ML4SE2022/group7/pull/5) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
-5. 🎉 Merged PR [#4](https://github.com/ML4SE2022/group7/pull/4) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
+1. 🗣 Commented on [#25981](https://github.com/moby/moby/issues/25981) in [moby/moby](https://github.com/moby/moby)
+2. ❗️ Opened issue [#224](https://github.com/topgrade-rs/topgrade/issues/224) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
+3. ❗️ Opened issue [#126](https://github.com/tokio-rs/slab/issues/126) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
+4. 🎉 Merged PR [#5](https://github.com/ML4SE2022/group7/pull/5) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
+5. 💪 Opened PR [#5](https://github.com/ML4SE2022/group7/pull/5) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
 <!--END_SECTION:activity-->

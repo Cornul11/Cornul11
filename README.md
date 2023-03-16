@@ -13,9 +13,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/facebookresearch/llama/issues/103) in [facebookresearch/llama](https://github.com/facebookresearch/llama)
-2. 🗣 Commented on [#146](https://github.com/jwise/HoRNDIS/issues/146) in [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS)
-3. 🗣 Commented on [#25981](https://github.com/moby/moby/issues/25981) in [moby/moby](https://github.com/moby/moby)
-4. ❗️ Opened issue [#126](https://github.com/tokio-rs/slab/issues/126) in [tokio-rs/slab](https://github.com/tokio-rs/slab)
+1. 🗣 Commented on [#322](https://github.com/thedodd/trunk/issues/322) in [thedodd/trunk](https://github.com/thedodd/trunk)
+2. 🗣 Commented on [#103](https://github.com/facebookresearch/llama/issues/103) in [facebookresearch/llama](https://github.com/facebookresearch/llama)
+3. 🗣 Commented on [#146](https://github.com/jwise/HoRNDIS/issues/146) in [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS)
+4. 🗣 Commented on [#25981](https://github.com/moby/moby/issues/25981) in [moby/moby](https://github.com/moby/moby)
 5. 🎉 Merged PR [#5](https://github.com/ML4SE2022/group7/pull/5) in [ML4SE2022/group7](https://github.com/ML4SE2022/group7)
 <!--END_SECTION:activity-->

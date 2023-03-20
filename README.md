@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A passionate student in Computer Science</h3>
 
-- 🔭 I’m currently working on **a visualisation tool for a handheld mmWave sensor**
-
-- 🌱 I’m currently learning **Go, gRPC, scikit-learn**
+- 🌱 I’m currently learning **Rust, Unity, C#, JVM internals**
 
 ### :rocket: Connect with me:</h3>
 <p align="left">

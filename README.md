@@ -11,9 +11,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/9) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-2. ❌ Reopened PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-3. ❌ Closed PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-4. 💪 Opened PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-5. 🗣 Commented on [#322](https://github.com/thedodd/trunk/issues/322) in [thedodd/trunk](https://github.com/thedodd/trunk)
+1. 🎉 Merged PR [#10](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/10) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+2. 💪 Opened PR [#9](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/9) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+3. ❌ Reopened PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+4. ❌ Closed PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+5. 💪 Opened PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
 <!--END_SECTION:activity-->

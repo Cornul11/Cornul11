@@ -11,9 +11,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/10) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-2. 💪 Opened PR [#9](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/9) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-3. ❌ Reopened PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-4. ❌ Closed PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-5. 💪 Opened PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+1. 💪 Opened PR [#14](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/14) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+2. 🎉 Merged PR [#10](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/10) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+3. 💪 Opened PR [#9](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/9) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+4. ❌ Reopened PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+5. ❌ Closed PR [#3](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/3) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
 <!--END_SECTION:activity-->

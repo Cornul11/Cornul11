@@ -11,9 +11,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Cornul11/IN4152-final-project/pull/2) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
-2. 💪 Opened PR [#2](https://github.com/Cornul11/IN4152-final-project/pull/2) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
-3. 🎉 Merged PR [#1](https://github.com/Cornul11/IN4152-final-project/pull/1) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
-4. 💪 Opened PR [#1](https://github.com/Cornul11/IN4152-final-project/pull/1) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
-5. 💪 Opened PR [#14](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/14) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+1. 🎉 Merged PR [#3](https://github.com/Cornul11/IN4152-final-project/pull/3) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
+2. 💪 Opened PR [#3](https://github.com/Cornul11/IN4152-final-project/pull/3) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
+3. 🎉 Merged PR [#2](https://github.com/Cornul11/IN4152-final-project/pull/2) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
+4. 💪 Opened PR [#2](https://github.com/Cornul11/IN4152-final-project/pull/2) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
+5. 🎉 Merged PR [#1](https://github.com/Cornul11/IN4152-final-project/pull/1) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
 <!--END_SECTION:activity-->

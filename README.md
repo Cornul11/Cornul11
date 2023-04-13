@@ -11,9 +11,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/21) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-2. 💪 Opened PR [#20](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/20) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-3. 💪 Opened PR [#18](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/18) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-4. 🎉 Merged PR [#17](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/17) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-5. 🎉 Merged PR [#3](https://github.com/Cornul11/IN4152-final-project/pull/3) in [Cornul11/IN4152-final-project](https://github.com/Cornul11/IN4152-final-project)
+1. 💪 Opened PR [#22](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/22) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+2. 💪 Opened PR [#21](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/21) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+3. 💪 Opened PR [#20](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/20) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+4. 💪 Opened PR [#18](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/18) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+5. 🎉 Merged PR [#17](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/17) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
 <!--END_SECTION:activity-->

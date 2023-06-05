@@ -11,9 +11,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/dylran/DiffuseDenoiseCount/issues/5) in [dylran/DiffuseDenoiseCount](https://github.com/dylran/DiffuseDenoiseCount)
-2. ❌ Closed PR [#26](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/26) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-3. 🎉 Merged PR [#25](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/25) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-4. 🎉 Merged PR [#24](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/24) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
-5. 🎉 Merged PR [#22](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/22) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+1. 🔒 Closed issue [#5](https://github.com/dylran/DiffuseDenoiseCount/issues/5) in [dylran/DiffuseDenoiseCount](https://github.com/dylran/DiffuseDenoiseCount)
+2. ❗ Opened issue [#5](https://github.com/dylran/DiffuseDenoiseCount/issues/5) in [dylran/DiffuseDenoiseCount](https://github.com/dylran/DiffuseDenoiseCount)
+3. ❌ Closed PR [#26](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/26) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+4. 🎉 Merged PR [#25](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/25) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+5. 🎉 Merged PR [#24](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/24) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
 <!--END_SECTION:activity-->

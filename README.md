@@ -11,9 +11,9 @@
 
 ### :zap: Recent activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/d33dler/avq2c/issues/1) in [d33dler/avq2c](https://github.com/d33dler/avq2c)
-2. 🗣 Commented on [#170](https://github.com/dracula/gtk/issues/170#issuecomment-1722479873) in [dracula/gtk](https://github.com/dracula/gtk)
-3. ❗ Opened issue [#251](https://github.com/dracula/gtk/issues/251) in [dracula/gtk](https://github.com/dracula/gtk)
-4. 🗣 Commented on [#243](https://github.com/dracula/gtk/issues/243#issuecomment-1722476502) in [dracula/gtk](https://github.com/dracula/gtk)
-5. 🎉 Merged PR [#24](https://github.com/kponichtera/browser-cpu-fingerprinting-rs/pull/24) in [kponichtera/browser-cpu-fingerprinting-rs](https://github.com/kponichtera/browser-cpu-fingerprinting-rs)
+1. 💪 Opened PR [#34](https://github.com/dracula/qbittorrent/pull/34) in [dracula/qbittorrent](https://github.com/dracula/qbittorrent)
+2. ❗ Opened issue [#1](https://github.com/d33dler/avq2c/issues/1) in [d33dler/avq2c](https://github.com/d33dler/avq2c)
+3. 🗣 Commented on [#170](https://github.com/dracula/gtk/issues/170#issuecomment-1722479873) in [dracula/gtk](https://github.com/dracula/gtk)
+4. ❗ Opened issue [#251](https://github.com/dracula/gtk/issues/251) in [dracula/gtk](https://github.com/dracula/gtk)
+5. 🗣 Commented on [#243](https://github.com/dracula/gtk/issues/243#issuecomment-1722476502) in [dracula/gtk](https://github.com/dracula/gtk)
 <!--END_SECTION:activity-->

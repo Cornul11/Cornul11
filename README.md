@@ -8,9 +8,9 @@
 
 ### ⚡ Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#437](https://github.com/flask-dashboard/Flask-MonitoringDashboard/issues/437#issuecomment-1826925413) in [flask-dashboard/Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
-2. 🗣 Commented on [#437](https://github.com/flask-dashboard/Flask-MonitoringDashboard/issues/437#issuecomment-1825897839) in [flask-dashboard/Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
-3. 🎉 Merged PR [#11](https://github.com/Cornul11/Retaily/pull/11) in [Cornul11/Retaily](https://github.com/Cornul11/Retaily)
-4. ❗ Opened issue [#235](https://github.com/faressoft/terminalizer/issues/235) in [faressoft/terminalizer](https://github.com/faressoft/terminalizer)
-5. ❗ Opened issue [#437](https://github.com/flask-dashboard/Flask-MonitoringDashboard/issues/437) in [flask-dashboard/Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
+1. 🚀 Published release [v0.1.1](https://github.com/Cornul11/ExifDateGeoBatch/releases/tag/v0.1.1) in [Cornul11/ExifDateGeoBatch](https://github.com/Cornul11/ExifDateGeoBatch)
+2. 🚀 Published release [v0.1.1](https://github.com/Cornul11/ExifDateGeoBatch/releases/tag/v0.1.1) in [Cornul11/ExifDateGeoBatch](https://github.com/Cornul11/ExifDateGeoBatch)
+3. 🚀 Published release [v0.1.1](https://github.com/Cornul11/ExifDateGeoBatch/releases/tag/v0.1.1) in [Cornul11/ExifDateGeoBatch](https://github.com/Cornul11/ExifDateGeoBatch)
+4. 🗣 Commented on [#437](https://github.com/flask-dashboard/Flask-MonitoringDashboard/issues/437#issuecomment-1826925413) in [flask-dashboard/Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
+5. 🗣 Commented on [#437](https://github.com/flask-dashboard/Flask-MonitoringDashboard/issues/437#issuecomment-1825897839) in [flask-dashboard/Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
 <!--END_SECTION:activity-->

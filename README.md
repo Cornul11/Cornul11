@@ -8,9 +8,9 @@
 
 ### ⚡ Recent activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/Cornul11/ExifDateGeoBatch/releases/tag/v0.1.1) in [Cornul11/ExifDateGeoBatch](https://github.com/Cornul11/ExifDateGeoBatch)
-2. 🚀 Published release [v0.1.1](https://github.com/Cornul11/ExifDateGeoBatch/releases/tag/v0.1.1) in [Cornul11/ExifDateGeoBatch](https://github.com/Cornul11/ExifDateGeoBatch)
-3. 🚀 Published release [v0.1.1](https://github.com/Cornul11/ExifDateGeoBatch/releases/tag/v0.1.1) in [Cornul11/ExifDateGeoBatch](https://github.com/Cornul11/ExifDateGeoBatch)
-4. 🗣 Commented on [#437](https://github.com/flask-dashboard/Flask-MonitoringDashboard/issues/437#issuecomment-1826925413) in [flask-dashboard/Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
-5. 🗣 Commented on [#437](https://github.com/flask-dashboard/Flask-MonitoringDashboard/issues/437#issuecomment-1825897839) in [flask-dashboard/Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
+1. 🎉 Merged PR [#17](https://github.com/Cornul11/WebEngineering19_Team24/pull/17) in [Cornul11/WebEngineering19_Team24](https://github.com/Cornul11/WebEngineering19_Team24)
+2. 🎉 Merged PR [#23](https://github.com/Cornul11/healthDecode/pull/23) in [Cornul11/healthDecode](https://github.com/Cornul11/healthDecode)
+3. 🎉 Merged PR [#24](https://github.com/Cornul11/healthDecode/pull/24) in [Cornul11/healthDecode](https://github.com/Cornul11/healthDecode)
+4. 🎉 Merged PR [#25](https://github.com/Cornul11/healthDecode/pull/25) in [Cornul11/healthDecode](https://github.com/Cornul11/healthDecode)
+5. 🎉 Merged PR [#26](https://github.com/Cornul11/healthDecode/pull/26) in [Cornul11/healthDecode](https://github.com/Cornul11/healthDecode)
 <!--END_SECTION:activity-->

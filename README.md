@@ -8,7 +8,7 @@
 
 ### ⚡ Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Cornul11/WebEngineering19_Team24/pull/17) in [Cornul11/WebEngineering19_Team24](https://github.com/Cornul11/WebEngineering19_Team24)
+1. 🗣 Commented on [#333](https://github.com/eneshecan/whatsapp-for-linux/issues/333#issuecomment-2163708002) in [eneshecan/whatsapp-for-linux](https://github.com/eneshecan/whatsapp-for-linux)
 2. 🎉 Merged PR [#23](https://github.com/Cornul11/healthDecode/pull/23) in [Cornul11/healthDecode](https://github.com/Cornul11/healthDecode)
 3. 🎉 Merged PR [#24](https://github.com/Cornul11/healthDecode/pull/24) in [Cornul11/healthDecode](https://github.com/Cornul11/healthDecode)
 4. 🎉 Merged PR [#25](https://github.com/Cornul11/healthDecode/pull/25) in [Cornul11/healthDecode](https://github.com/Cornul11/healthDecode)

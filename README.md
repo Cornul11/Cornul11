@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A passionate student in Computer Science</h3>
+<h3 align="center">Software Engineer</h3>
 
 ### 🚀 Connect with me:</h3>
 <p align="left">

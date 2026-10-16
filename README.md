@@ -8,9 +8,9 @@
 
 ### ⚡ Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4094](https://github.com/rtk-ai/rtk/pull/4094#issuecomment-6169631203) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-2. 🗣 Commented on [#10810](https://github.com/paperclipai/paperclip/issues/10810#issuecomment-5834654295) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-3. 💪 Opened PR [#4128](https://github.com/rtk-ai/rtk/pull/4128) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-4. 💪 Opened PR [#4094](https://github.com/rtk-ai/rtk/pull/4094) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-5. 🎉 Merged PR [#26](https://github.com/Cornul11/healthDecode/pull/26) in [Cornul11/healthDecode](https://github.com/Cornul11/healthDecode)
+1. 🗣 Commented on [#50445](https://github.com/hashicorp/terraform-provider-aws/pull/50445#issuecomment-6193877139) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+2. 🗣 Commented on [#4094](https://github.com/rtk-ai/rtk/pull/4094#issuecomment-6169631203) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+3. 🗣 Commented on [#10810](https://github.com/paperclipai/paperclip/issues/10810#issuecomment-5834654295) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+4. 💪 Opened PR [#4128](https://github.com/rtk-ai/rtk/pull/4128) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+5. 💪 Opened PR [#4094](https://github.com/rtk-ai/rtk/pull/4094) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 <!--END_SECTION:activity-->

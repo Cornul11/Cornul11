@@ -8,9 +8,9 @@
 
 ### ⚡ Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50445](https://github.com/hashicorp/terraform-provider-aws/pull/50445#issuecomment-6193877139) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-2. 🗣 Commented on [#4094](https://github.com/rtk-ai/rtk/pull/4094#issuecomment-6169631203) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-3. 🗣 Commented on [#10810](https://github.com/paperclipai/paperclip/issues/10810#issuecomment-5834654295) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-4. 💪 Opened PR [#4128](https://github.com/rtk-ai/rtk/pull/4128) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+1. 💪 Opened PR [#2866](https://github.com/Gathin23/cleanyourtv/pull/2866) in [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+2. 💪 Opened PR [#2865](https://github.com/Gathin23/cleanyourtv/pull/2865) in [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+3. 🗣 Commented on [#50445](https://github.com/hashicorp/terraform-provider-aws/pull/50445#issuecomment-6193877139) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+4. 🗣 Commented on [#4094](https://github.com/rtk-ai/rtk/pull/4094#issuecomment-6169631203) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 5. 💪 Opened PR [#4094](https://github.com/rtk-ai/rtk/pull/4094) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 <!--END_SECTION:activity-->
